@@ -27,3 +27,4 @@ type SerieAttributes = {
       this.image = image;
     }
   }
+  
