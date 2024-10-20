@@ -1,4 +1,4 @@
-import {Serie} from './serie'; // Import the serie interface
+import {Serie} from './serie'; 
 
 
 export function createSeriesTable(serie: Serie[]): string {
